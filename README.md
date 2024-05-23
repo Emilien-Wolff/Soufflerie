@@ -1,7 +1,8 @@
 
 # Soufflerie  et profil d'aile d'avion ✈️
 
-Dans le cadre d'un congrès trinational auquel j'ai participé en 2019, j'ai réalisé en collaboration avec Clotilde CHOMPRET, un banc d'essai, taille réduite, pour évaluer l'efficacité des profils d'ailes d'avions (portance et trainée)
+> [!NOTE]
+> Dans le cadre d'un congrès trinational auquel j'ai participé en 2019, j'ai réalisé en collaboration avec Clotilde CHOMPRET, un banc d'essai, taille réduite, pour évaluer l'efficacité des profils d'ailes d'avions (portance et trainée)
 
 
 ## Mon objectif
