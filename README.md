@@ -6,6 +6,7 @@
 <p align="center">
  <img width="460" src="https://github.com/Emilien-Wolff/Soufflerie/blob/main/Photos/IMG_3109.JPG?raw=true">
 </p>
+
 ## Mon objectif
 
 > Quantifier et visualiser les filets d'air autour d'une aile d'avion grâce à l'injection de fumée dans le canal de la soufflerie et également de mesurer les efforts tangentiels et normaux correspondant au $C_x$ et $C_z$.
