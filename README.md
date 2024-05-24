@@ -4,6 +4,7 @@
 > [!NOTE]
 > Dans le cadre d'un congrès trinational auquel j'ai participé en 2019, j'ai réalisé en collaboration avec Clotilde CHOMPRET, un banc d'essai, taille réduite, pour évaluer l'efficacité des profils d'ailes d'avions (portance et trainée)
 
+![alt text](https://github.com/Emilien-Wolff/Soufflerie/blob/main/Photos/IMG_3030.jpg?raw=true)
 
 ## Mon objectif
 
