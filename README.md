@@ -7,7 +7,7 @@
 
 ## Mon objectif
 
-> Quantifier et visualiser les filets d'air autour d'une aile d'avion grâce à l'injection de fumée dans le canal de la soufflerie et également de mesurer les efforts tangentiels et normaux correspondant au Cx et Cz.
+> Quantifier et visualiser les filets d'air autour d'une aile d'avion grâce à l'injection de fumée dans le canal de la soufflerie et également de mesurer les efforts tangentiels et normaux correspondant au $C_x$ et $C_z$.
 
 
 ## Mon cahier des charges
