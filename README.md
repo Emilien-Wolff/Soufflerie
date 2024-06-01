@@ -14,7 +14,7 @@
 
 ## Mon cahier des charges
 
- - Tracer la polaire d'un profil d'aile ($C_z=f(C_x)$
+ - Tracer la polaire d'un profil d'aile ($C_z=f(C_x))$
  - Quantifier les forces de trainée et de portance
  - Mettre en évidence le phénomène de décrochage (par le biais de la conception d'une machine à fumée)
  - Montage transportable pour faire des démonstrations
